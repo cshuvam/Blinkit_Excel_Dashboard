@@ -1,5 +1,10 @@
 # Blinkit Sales Dashboard in Excel
 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+[![Blinkit](https://img.shields.io/badge/Blinkit-FFD700?style=for-the-badge&logo=blinkit&logoColor=black)](https://www.blinkit.com/)
+[![Dashboard](https://img.shields.io/badge/Dashboard-34A853?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/cshuvam/Blinkit_Excel_Dashboard/blob/main/Blinkit_Analysis_Dashboard.xlsx)
+[![Dataset](https://img.shields.io/badge/Dataset-00BFA6?style=for-the-badge&logo=googlesheets&logoColor=white)](https://github.com/cshuvam/Blinkit_Excel_Dashboard/blob/main/data/Blinkit_Grocery_Source_Data.xlsx)
+
 This project is an Excel dashboard I put together to look at how [Blinkit](https://blinkit.com/) is doing with sales, how happy customers are, and where they're selling stuff. It uses some key numbers (KPIs) and cool charts to help us understand what's working well and where things could be better.
 
 ---
